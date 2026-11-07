@@ -1,0 +1,4 @@
+Gene symbol: CAV3
+NCBI Gene ID: 859
+Official name: caveolin 3
+Chromosome: 3
