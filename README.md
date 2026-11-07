@@ -2,7 +2,10 @@
 # Molecular Mechanisms of Muscle Contractility
 ## Protein Structure and Mutation Analysis: CAV3 (Caveolin-3)
 
-**Student No.:** 45  
+Behante, Fretz Ivan M.
+Cell and Molecular Biology
+
+**Assigned No.:** 45
 **Gene:** CAV3  
 **Official Gene Name:** Caveolin 3  
 **NCBI Gene ID:** 859  
